@@ -1,0 +1,6 @@
+figlet Updating
+echo 'Coded by MelloB' | lolcat
+cd ~/termux_clang_install
+git pull
+chmod +x install.sh
+./install.sh

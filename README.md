@@ -44,4 +44,4 @@ runc <YOUR_C_PROGRAM_NAME>
 
 Example:- `runc add`
 
-Note:- No need to add .c in the command.
+Note:- No need to add `.c` in the command.

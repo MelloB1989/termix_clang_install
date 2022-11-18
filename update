@@ -1,6 +1,5 @@
 figlet Updating | lolcat
 echo 'Coded by MelloB' | lolcat
-cd ~/termux_clang_install
-git pull
-chmod +x install.sh
-./install.sh
+cd ~/termux_clang_install && git pull
+chmod +x ~/termux_clang_install/install.sh
+bash ~/termux_clang_install/install.sh

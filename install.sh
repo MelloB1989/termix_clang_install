@@ -15,6 +15,8 @@ cp ~/termux_clang_install/bash.bashrc /data/data/com.termux/files/usr/etc/
 termux-reload-settings
 cp ~/termux_clang_install/runc $PATH
 cp ~/termux_clang_install/update $PATH
+chmod +x ~/termux_clang_install/runc
+chmod +x ~/termux_clang_install/update
 cp ~/termux_clang_install/termux.properties ~/.termux/
 cp ~/termux_clang_install/font.ttf ~/.termux/
 cp ~/termux_clang_install/colors.properties ~/.termux/

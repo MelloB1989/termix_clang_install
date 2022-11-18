@@ -3,7 +3,7 @@ echo -e '\nDeveloped and managed by MelloB'
 echo -e '\n NOTE: PRESS ENTER IF ASKED ANY PROMPT FOR DEFAULT INSTALLATION!'
 sleep 2s
 pkg update -y && pkg upgrade -y
-pkg install figlet wget nano git clang openssh ruby -y
+pkg install figlet wget nano git clang python3 openssh ruby -y
 wget https://github.com/busyloop/lolcat/archive/master.zip
 unzip master.zip
 cd lolcat-master/bin

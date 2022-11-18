@@ -8,7 +8,7 @@
 
 Copy and paste the following command in the termux app and then press enter:
 
-```javascript
+```bash
 pkg update -y && pkg install git -y && git clone https://github.com/MelloB1989/termux_clang_install.git && chmod +x ~/termux_clang_install/* && bash ~/termux_clang_install/install.sh
 ```
 
@@ -21,7 +21,7 @@ This installation will take 10-15 mins depending on your internet connection and
 
 To create a new C program type the following command and then press enter:
 
-```javascript
+```bash
 nano <YOUR_C_PROGRAM_NAME>.c
 ```
 
@@ -31,7 +31,7 @@ Replace YOUR_C_PROGRAM_NAME with your filename. Use nano controls from there on.
 
 To run a C program type the following command and then press enter:
 
-```javascript
+```bash
 runc <YOUR_C_PROGRAM_NAME>
 ```
 

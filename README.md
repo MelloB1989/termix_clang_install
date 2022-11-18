@@ -3,6 +3,7 @@
 ## Features:- 
 1. NANO, VI editors
 2. CLANG complier
+3. Cool ASCII ART
 
 ## Installation:-
 Download and install the termux app from the following link:

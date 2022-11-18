@@ -1,4 +1,4 @@
-figlet Updating
+figlet Updating | lolcat
 echo 'Coded by MelloB' | lolcat
 cd ~/termux_clang_install
 git pull
